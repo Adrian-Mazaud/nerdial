@@ -1,0 +1,32 @@
+<section class="menu">
+    <div class="cross" id="closeMenu">
+        <span></span>
+    </div>
+    <div class="wrap-menu" id="menu">
+        <div class="clearfix">
+            <div class="meteo">
+                <span id="celsius">21</span><sup>C</sup>
+            </div>
+            <div class="date">
+                <div id="day" class="day">Friday</div>
+                <div id="month" class="month">16 September</div>
+            </div>
+        </div>
+        <nav>
+            <ul class="clearfix">
+                <img class="me" src="img/profil/me.jpg" alt="Your photo">
+                <li><a href="#">My Profile</a></li>
+                <li><a href="#">Analytics</a></li>
+                <li class="separate"></li>
+                <li><a href="#">Discover</a></li>
+                <li <% if (page == 'discuss' || page == 'discussions') { %>class="is-current" <% } %>><a href="discussions">Discussion</a></li>
+                <li <% if (page == 'around') { %>class="is-current" <% } %>><a href="around">Around me</a></li>
+                <li><a href="#">Settings</a></li>
+                <li class="separate"></li>
+                <li><a href="#" class="new">news</a></li>
+                <li><a href="/" class="new">Log out</a></li>
+            </ul>
+        </nav>
+    </div>
+</section>
+<script type="text/javascript"></script>

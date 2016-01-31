@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="52px" height="53px" viewBox="0 0 52 53" enable-background="new 0 0 52 53" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="-518" y="-1253" width="750" height="1334"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<path id="SVGID_3_" d="M13.706,0h24.589l2.329,28.131c0.223,2.689-1.719,5.397-4.331,6.049L26,36.744L15.707,34.18
+				c-2.614-0.651-4.554-3.357-4.331-6.049L13.706,0z"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		
+			<path clip-path="url(#SVGID_4_)" fill="none" stroke="#F2F2F2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M13.705,0h24.59l2.329,28.131c0.223,2.689-1.719,5.397-4.331,6.049L26,36.744L15.707,34.18c-2.614-0.651-4.554-3.357-4.331-6.049
+			L13.705,0z"/>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_5_" x="-518" y="-1253" width="750" height="1334"/>
+	</defs>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_5_"  overflow="visible"/>
+	</clipPath>
+	
+		<line clip-path="url(#SVGID_6_)" fill="none" stroke="#F2F2F2" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="26" y1="36" x2="26" y2="39"/>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_7_" x="-518" y="-1253" width="750" height="1334"/>
+	</defs>
+	<clipPath id="SVGID_8_">
+		<use xlink:href="#SVGID_7_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_8_)">
+		<defs>
+			<polygon id="SVGID_9_" points="19,40 33,40 35,46 17,46 			"/>
+		</defs>
+		<clipPath id="SVGID_10_">
+			<use xlink:href="#SVGID_9_"  overflow="visible"/>
+		</clipPath>
+		
+			<polygon clip-path="url(#SVGID_10_)" fill="none" stroke="#F2F2F2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			19,40 33,40 35,46 17,46 		"/>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_11_" x="-518" y="-1253" width="750" height="1334"/>
+	</defs>
+	<clipPath id="SVGID_12_">
+		<use xlink:href="#SVGID_11_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_12_)">
+		<defs>
+			<rect id="SVGID_13_" x="11" y="44" width="30" height="9"/>
+		</defs>
+		<clipPath id="SVGID_14_">
+			<use xlink:href="#SVGID_13_"  overflow="visible"/>
+		</clipPath>
+		
+			<rect x="11" y="44" clip-path="url(#SVGID_14_)" fill="none" stroke="#F2F2F2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="30" height="9"/>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_15_" x="-518" y="-1253" width="750" height="1334"/>
+	</defs>
+	<clipPath id="SVGID_16_">
+		<use xlink:href="#SVGID_15_"  overflow="visible"/>
+	</clipPath>
+	
+		<path clip-path="url(#SVGID_16_)" fill="none" stroke="#F2F2F2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M37.952,7.277L41.364,4h9.566c0,0,1.094,13.398-11.48,21.676"/>
+	
+		<path clip-path="url(#SVGID_16_)" fill="none" stroke="#F2F2F2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M14.002,7.277L10.59,4H1.024c0,0-1.094,13.398,11.48,21.676"/>
+	
+		<polygon clip-path="url(#SVGID_16_)" fill="none" stroke="#F2F2F2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		26,20 23.649,21.236 24.098,18.618 22.196,16.764 24.824,16.382 26,14 27.176,16.382 29.805,16.764 27.902,18.618 28.352,21.236 	
+		"/>
+</g>
+</svg>

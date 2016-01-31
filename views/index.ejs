@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title><%= title %></title>
+    <meta name="descript" content="hello world">
+    <link rel='stylesheet' href='css/screen.css' />
+    <link rel='stylesheet' href='css/patch.css' />
+  </head>
+  <body>
+      <%- include('partials/navigation_primary') %>
+      <% if (page == 'discuss') {%>
+          <%- include('partials/form_discuss'); %>
+      <%}%>
+      <section class="content" id="content">
+      <% if (burger) { %>
+          <%- include('partials/burger') %>
+      <% } %>
+          <div class="overlay" id="overlay"></div>
+          <%- include(content) %>
+      </section>
+
+  </body>
+  <script type="text/javascript" src="js/menuCtrl.js"></script>
+</html>
